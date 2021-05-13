@@ -1,0 +1,9 @@
+version: '2'
+services:
+  postgres:
+    extends:
+      file: postgres.yml
+      service: postgres
+    container_name: postgres
+    
+        
