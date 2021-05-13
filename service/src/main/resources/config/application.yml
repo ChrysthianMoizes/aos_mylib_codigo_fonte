@@ -25,5 +25,5 @@ spring:
   liquibase:
     change-log: classpath:/config/liquibase/master.xml
     # drop-first: true
-  server:
-    port: 8080
+server:
+  port: 8080
