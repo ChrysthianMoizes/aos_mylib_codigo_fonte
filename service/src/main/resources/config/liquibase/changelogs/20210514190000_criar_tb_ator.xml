@@ -21,7 +21,7 @@
     <changeSet id="20210514190000-002" author="chrysthian.moizes">
         <createSequence incrementBy="1"
                          sequenceName="seq_ator"
-                         startValue="1"/>
+                         startValue="4"/>
     </changeSet>
 
 
