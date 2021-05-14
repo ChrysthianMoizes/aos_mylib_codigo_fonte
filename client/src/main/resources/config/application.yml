@@ -6,5 +6,8 @@ spring:
     deserialization:
       fail-on-unknown-properties: false
 
+application:
+  feign:
+    url: http://localhost:8080
 server:
   port: 8090
